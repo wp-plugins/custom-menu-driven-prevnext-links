@@ -1,5 +1,5 @@
 === Custom Menu Driven Prev/Next Links ===
-Contributors: CodingBee, Susheel-Kumar
+Contributors: Susheel Kumar, CodingBee
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3MX23YDX9XU3Y
 Tags: prev/next, prev-next, previus & next links, custom menu
 License: GPLv2 or later
